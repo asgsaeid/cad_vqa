@@ -34,11 +34,11 @@ pip install -r requirements.txt
 
 To evaluate a VLM on the CAD-VQA dataset:
 
-python cad_qa_eval_api.py --parquet_file <path_to_parquet_file> 
+`python cad_qa_eval_api.py --parquet_file <path_to_parquet_file> 
 --main_image_folder <path_to_main_image_folder> 
 --tiled_images_folder <path_to_tiled_images_folder> 
 --image_subfolder_names single transparent_zoomed_loose transparent_zoomed_tight 
---model_name <model_name>
+--model_name <model_name>`
 
 Replace `<model_name>` with one of the following:
 - "gpt-4o"
