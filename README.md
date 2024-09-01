@@ -1,4 +1,4 @@
-# CAD-VQA: Computer-Aided Design Visual Question Answering Dataset
+# CAD-VQA: Computer-Aided Design Visual Question Answering Dataset for Evaluating Vision Languagve Models
 
 This repository contains the CAD-VQA dataset and evaluation code introduced in the paper "How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?".
 
