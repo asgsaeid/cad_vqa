@@ -23,11 +23,7 @@ CAD-VQA is a novel dataset designed to evaluate Vision-Language Models' understa
 
 ## Installation
 
-1. Clone this repository:
-
-git clone https://github.com/your-username/cad-vqa.git
-cd cad-vqa
-
+1. Clone this repository
 2. Install required dependencies:
 pip install -r requirements.txt
 
