@@ -17,10 +17,10 @@ import anthropic
 import google.generativeai as genai
 
 # API Keys
-OPENAI_API_KEY = "sk-proj-6m4gseG1912DfA94Z3Q1T3BlbkFJvChdLWnCNO6zHGoCvuVc"
-GOOGLE_API_KEY = "AIzaSyAYLnwvq78v0OjZIajUEJpesPgnk7JUXxo"
-ANTHROPIC_API_KEY = "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"
-DEEPINFRA_API_KEY = "znsllrNNYIzh7XJbBGO64W6zTtvMbWk6"
+OPENAI_API_KEY = ""
+GOOGLE_API_KEY = ""
+ANTHROPIC_API_KEY = ""
+DEEPINFRA_API_KEY = ""
 
 def create_tiled_image(image_paths, output_path, max_width=362, max_height=256, padding=5):
     images = [Image.open(path) for path in image_paths]
