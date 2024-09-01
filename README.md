@@ -12,7 +12,7 @@ CAD-VQA is a novel dataset designed to evaluate Vision-Language Models' understa
 
 ## Contents
 
-- `images.rar`: Rendered images of 3D parts
+- `images.zip`: Rendered images of 3D parts, download here [CAD-VQA Images](https://drive.google.com/drive/folders/your-folder-id)
 - `tiled_images`: Tiled images we used to evaluate models
 - `cadvlm_vqa.parquet`: Question and answers
 - `cad_qa_eval_api.py`: Code for evaluating VLM performance on CAD-VQA through API
