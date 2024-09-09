@@ -88,10 +88,10 @@ We provide baseline results for state-of-the-art VLMs on CAD-VQA:
 If you use the CAD-VQA dataset in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{anonymous2024cadvqa,
+@article{taghanaki2024determine,
   title={How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?},
-  author={Anonymous},
-  booktitle={38th Conference on Neural Information Processing Systems (NeurIPS 2024)},
+  author={Taghanaki, Saeid Asgari and Lambourne, Joseph and Mongkhounsavath, Alana},
+  journal={arXiv preprint arXiv:2409.02253},
   year={2024}
 }
 
