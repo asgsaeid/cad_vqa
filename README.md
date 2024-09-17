@@ -77,11 +77,12 @@ The main evaluation script `evaluate_vlm.py` contains the following key function
 
 We provide baseline results for state-of-the-art VLMs on CAD-VQA:
 
-| Model | Accuracy |
+| Model | Accuracy (%) |
 |-------|----------|
-| Claude-3.5-Sonnet | 61% |
-| GPT-4o | 54% |
-| Gemini-1.5-Pro | 54% |
+| Claude-3.5-Sonnet | 61 |
+| GPT-4o | 54 |
+| Gemini-1.5-Pro | 54 |
+| O1-preview | 42 |
 
 ## Citation
 
